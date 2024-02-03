@@ -752,13 +752,3 @@ except Exception as e:
 ```
 
 
-## You can follow me
-
-Facebook:- https://www.facebook.com/problemsolvewithridoy/
-
-Linkedin:- https://www.linkedin.com/in/ridoyhossain/
-
-YouTube:- https://www.youtube.com/@problemsolvewithridoy
-
-If you have any confusion, please feel free to contact me. Thank you
-
