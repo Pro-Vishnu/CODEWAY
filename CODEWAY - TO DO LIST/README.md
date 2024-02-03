@@ -20,12 +20,6 @@
   - The first version of the program
 
 # About Me
-Full name : Abbas Ataei
+Full name : Vishnu Rathod
 
 Learning : Python
-
-Gmail : AbbasAtaei.py@gmail.com
-
-Telegram : https://t.me/Abbasataei_py
-
-More : https://bioly.io/AbbasAtaei
